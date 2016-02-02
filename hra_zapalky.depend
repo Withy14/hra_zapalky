@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1452001810 source:c:\users\mario.kalus\desktop\data comparer\hra_zapalky\main.c
+	<stdio.h>
+	<stdlib.h>
+	"std_operace.h"
+
+1452001530 c:\users\mario.kalus\desktop\data comparer\hra_zapalky\std_operace.h
+
+1452001530 source:c:\users\mario.kalus\desktop\data comparer\hra_zapalky\std_operace.c
+	"std_operace.h"
+
+1452525442 source:c:\users\mario.kalus\disk google\vut\fekt\projekt\hra_zapalky\main.c
+	"std_operace.h"
+	"hra_vs.h"
+	"moznosti_info.h"
+	"moznosti_nastaveni.h"
+
+1452434914 c:\users\mario.kalus\disk google\vut\fekt\projekt\hra_zapalky\std_operace.h
+	<conio.h>
+	"conio_linux.h"
+	<string.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
+1452434862 source:c:\users\mario.kalus\disk google\vut\fekt\projekt\hra_zapalky\std_operace.c
+	"std_operace.h"
+
+1452470514 source:c:\users\admin\disk google\vut\fekt\projekt\hra_zapalky\main.c
+	"std_operace.h"
+	"hra_vs.h"
+	"moznosti_info.h"
+	"moznosti_nastaveni.h"
+
+1452434914 c:\users\admin\disk google\vut\fekt\projekt\hra_zapalky\std_operace.h
+	<conio.h>
+	"conio_linux.h"
+	<string.h>
+	<unistd.h>
+	<stdio.h>
+	<stdlib.h>
+
+1452434862 source:c:\users\admin\disk google\vut\fekt\projekt\hra_zapalky\std_operace.c
+	"std_operace.h"
+
+1452031119 c:\users\admin\disk google\vut\fekt\projekt\hra_zapalky\conio_ilinux.h
+
+1452032400 source:c:\users\admin\disk google\vut\fekt\projekt\hra_zapalky\conio_ilinux.c
+	<termios.h>
+	<unistd.h>
+	<stdio.h>
+
+1452426240 source:c:\users\admin\disk google\vut\fekt\projekt\hra_zapalky\conio_linux.c
+	<termios.h>
+	<unistd.h>
+
+1452031119 c:\users\admin\disk google\vut\fekt\projekt\hra_zapalky\conio_linux.h
+
+1452474347 source:c:\users\admin\disk google\vut\fekt\projekt\hra_zapalky\hra_vs.c
+	"std_operace.h"
+	"hra_vs.h"
+	<ctype.h>
+
+1452473444 c:\users\admin\disk google\vut\fekt\projekt\hra_zapalky\hra_vs.h
+
+1452469383 c:\users\admin\disk google\vut\fekt\projekt\hra_zapalky\moznosti_info.h
+
+1452434083 c:\users\admin\disk google\vut\fekt\projekt\hra_zapalky\moznosti_nastaveni.h
+
+1452433928 source:c:\users\admin\disk google\vut\fekt\projekt\hra_zapalky\moznosti_nastaveni.c
+
+1452470549 source:c:\users\admin\disk google\vut\fekt\projekt\hra_zapalky\moznosti_info.c
+	"std_operace.h"
+	"moznosti_info.h"
+
+1452426240 source:c:\users\mario.kalus\disk google\vut\fekt\projekt\hra_zapalky\conio_linux.c
+	<termios.h>
+	<unistd.h>
+
+1452534104 source:c:\users\mario.kalus\disk google\vut\fekt\projekt\hra_zapalky\hra_vs.c
+	"std_operace.h"
+	"hra_vs.h"
+	<ctype.h>
+	<time.h>
+
+1452423348 c:\users\mario.kalus\disk google\vut\fekt\projekt\hra_zapalky\conio_linux.h
+
+1452473444 c:\users\mario.kalus\disk google\vut\fekt\projekt\hra_zapalky\hra_vs.h
+
+1452533746 c:\users\mario.kalus\disk google\vut\fekt\projekt\hra_zapalky\moznosti_info.h
+
+1452434083 c:\users\mario.kalus\disk google\vut\fekt\projekt\hra_zapalky\moznosti_nastaveni.h
+
+1452470549 source:c:\users\mario.kalus\disk google\vut\fekt\projekt\hra_zapalky\moznosti_info.c
+	"std_operace.h"
+	"moznosti_info.h"
+
+1452433928 source:c:\users\mario.kalus\disk google\vut\fekt\projekt\hra_zapalky\moznosti_nastaveni.c
+

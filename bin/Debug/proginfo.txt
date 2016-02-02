@@ -1,0 +1,5 @@
+Autor: Mario Kalus
+ID: 162292
+Verze: 0.1
+Strucne_info: zmena obtiznosti
+Strucne_info: presistentni ukladani nastaveni

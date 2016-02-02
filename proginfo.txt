@@ -1,0 +1,6 @@
+Strucne_info: zmena obtiznosti
+ID: 162292
+Verze: 0.1
+Strucne_info: zmena oponenta
+Strucne_info: prenositelnost programu
+Autor: Mario Kalus
